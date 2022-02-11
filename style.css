@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url('/images/bg-stars.svg');
+    background-image: url('/bg-stars.svg');
     background-color:hsl(234, 17%, 12%); 
     width: 100%;
     font-family: 'Red Hat Text', sans-serif;
@@ -96,7 +96,7 @@ footer .icons {
     align-items: center;
     justify-content: center;
     gap: 4rem;
-    background-image: url('/images/pattern-hills.svg'); 
+    background-image: url('/pattern-hills.svg'); 
     
 }
 .icons svg {
